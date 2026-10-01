@@ -5,3 +5,5 @@
 5. GNOME Web Alt Logo: The GNOME Web Browser Developers, GPL <http://www.gnu.org/licenses/gpl.html>, via Wikimedia Commons
 6. GIMP Icon: Jakub Steiner, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
 7. Weather Icon: Lapo, GPLv2 <https://www.gnu.org/licenses/old-licenses/gpl-2.0.html>
+8: Firefox Icon: Mozilla Foundation, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+9. Thunderbird Icon: Mozilla Foundation, MPL 2 <https://www.mozilla.org/en-US/MPL/2.0/>, via Wikimedia Commons

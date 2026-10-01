@@ -2,7 +2,7 @@
 Name=Realistiwaita
 
 Comment=Old Adwaita Icon Theme
-Inherits=oxygen,Adwaita,breeze,hicolor
+Inherits=TangoSVG-V3-plasma5up-blackysgate.de-icontheme,oxygen,oxylite,Adwaita,breeze,hicolor
 Directories=actions,apps,categories,devices,emblems,emotes,mimetypes,places,preferences,status,ui
 
 FollowsColorScheme=true
