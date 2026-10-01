@@ -4,3 +4,4 @@
 4. GNOME Web Logo: GNOME, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 5. GNOME Web Alt Logo: The GNOME Web Browser Developers, GPL <http://www.gnu.org/licenses/gpl.html>, via Wikimedia Commons
 6. GIMP Icon: Jakub Steiner, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+7. Weather Icon: Lapo, GPLv2 <https://www.gnu.org/licenses/old-licenses/gpl-2.0.html>
